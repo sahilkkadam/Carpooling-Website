@@ -1,6 +1,6 @@
-![Screenshot (22)](https://github.com/user-attachments/assets/16bfb5dc-7a60-4abc-9792-9e60d0e309c0)# Carpooling-Website
+# Carpooling-Website
 
-Screenshots of the application
+- Screenshots of the application
 
 ![Screenshot (10)](https://github.com/user-attachments/assets/552851cb-72b6-44df-8f1e-f85418cb6d6b)
 ![Screenshot (11)](https://github.com/user-attachments/assets/abbfd71d-09e1-4b4a-b4ae-4473c36165cb)
